@@ -1,4 +1,4 @@
 # Cyclotron
-simple cyclotron simulation
+Simple cyclotron simulator
 
-credit goes to this project: https://github.com/marcrowo/cyclotron/blob/master/cyclotron.py
+Credit goes to this project: https://github.com/marcrowo/cyclotron/blob/master/cyclotron.py
